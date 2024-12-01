@@ -1,0 +1,38 @@
+/* Body styling */
+body {
+    background-color: #D3D3D3; /* light grey background */
+    }
+    h1{
+        
+    
+   color:#000000; /* dark text color */
+    font-family: Arial, sans-serif; /* setting font for the text */
+}
+
+/* Navigation styling */
+p{
+ color:000000;
+}
+nav {
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+
+/* Meme Image styling */
+#meme.jpg {
+    margin-right: 200px;
+}
+
+/* Header styling */
+header {
+    text-align: center;
+}
